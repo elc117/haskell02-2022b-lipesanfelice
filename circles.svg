@@ -1,0 +1,11 @@
+<svg width='600.00' height='600.00' xmlns='http://www.w3.org/2000/svg'>
+<circle cx='60' cy='60' r='50' fill='rgb(10, 145, 32, 0.4)' />
+<circle cx='160' cy='160' r='50' fill='rgb(127, 255, 212, 0.4)' />
+<circle cx='260' cy='260' r='50' fill='rgb(227, 38, 54, 0.4)' />
+<circle cx='160' cy='360' r='50' fill='rgb(255, 255, 0, 0.4)' />
+<circle cx='60' cy='460' r='50' fill='rgb(153, 102, 204, 0.4)' />
+<circle cx='360' cy='160' r='50' fill='rgb(222, 49, 99, 0.4)' />
+<circle cx='460' cy='60' r='50' fill='rgb(124, 252, 0, 0.4)' />
+<circle cx='360' cy='360' r='50' fill='rgb(227, 38, 54, 0.4)' />
+<circle cx='460' cy='460' r='50' fill='rgb(255, 117, 24, 0.4)' />
+</svg>
